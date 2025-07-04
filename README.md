@@ -2,12 +2,15 @@
 FEWD Assignment 1
 
 ## Introductions
-Hi there my name is **Maria**! I am an aspiring _**web developer and designer**_.
+Hi, my name is **Maria**! I am an aspiring _**web developer and designer**_.
 
 My hobbies are:
 * Drawing
 * Reading
 * Crocheting
 
-Here is a Link to one of my favorite movies:
+The image of my favorite movie:
+![Image](https://github.com/user-attachments/assets/b9061bdb-0d13-4610-8fa3-8779eb66a478)
+
+Here is the trailer for **A Dog's Purpose**:
 [Youtube trailer](https://www.youtube.com/watch?v=1jLOOCADTGs) 
